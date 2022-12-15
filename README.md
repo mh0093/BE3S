@@ -1,5 +1,5 @@
 # BE3S
-The Bidirectional Exchanges Scheme in Surface and Subsurface
+The Bidirectional Exchanges Scheme in Surface and Subsurface (BE3S) is a hydrologic numerical scheme to represent the bidirectional hydrologic exchanges between the unsaturated soil, groundwater, and stream/river. BE3S is a coupled governing equations system based on transient boundary conditions which reflects transient hydrologic states/fluxes.
 
 BE3S is released on GitHub. BE3S is pure-python code and currently adopts IPython-Jupyter notebook configuration. 
 The files contains the entire source code for the BE3S simulations and users will need to generate forcing and domain inputs.
